@@ -13,5 +13,5 @@ You can exit the program by typing the word `no` at any stage
 If a reserved seat is selected, a message indicating that the seat has already been sold will be displayed
 
  ## Author:
- Maryam Jamali :-)
+ Maryam Jamali 🥰
 
